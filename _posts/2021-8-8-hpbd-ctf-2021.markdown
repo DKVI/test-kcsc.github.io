@@ -1,0 +1,64 @@
+---
+layout: post
+title: KCSC BIRTHDAY CTF EVENT
+image: hpbd-ctf-2021/KCSC_Birthday_CTF_cover.png
+date: 2021-07-08 23:59:00 +0700
+tags: [ctf, kcsc]
+categories: ctf
+---
+
+#### KCSC xin trân trọng giới thiệu sự kiện BIRTHDAY-CTF nhân dịp sinh nhật 2 tuổi của CLB KCSC.
+
+
+
+###### <i><u> 🚩🚩🚩Người giải quyết thử thách sớm nhất: <u><i>
+
+
+
+![image](https://user-images.githubusercontent.com/85006768/128654645-f351fe49-bca2-44b6-ae8d-04e9cc04a828.png)
+
+---	
+
+###### <i><u>🔫🔫🔫Thử thách: <u><i>
+
+
+* WEB:
+  
+Có một hacker vừa gửi mail cho công ty chúng tôi và nói rằng trang web của chúng tôi có một lỗ hổng cực kỳ nghiêm trọng. Hỡi các người anh em thiện lành có thể giúp chúng tôi tìm ra lỗ hổng đó và gửi report cho công ty chúng tôi để bên kỹ thuật sửa chữa, tất nhiên bạn cũng sẽ có thưởng!! XD
+
+> Tệp đính kèm: https://drive.google.com/file/d/1-y7YxrtG59YVAglrJyrsA3s24bhSyqkG/view?usp=sharing
+  
+> Địa chỉ thử thách: http://34.87.175.173:10666/
+
+* MISC:
+
+https://www.youtube.com/watch?v=Wu8NeFXaoOc . Định dạng cờ: UPPERCASE(FLAG)
+
+> nc 34.87.175.173 1337
+
+* CRYPTO:
+
+"Không cần mô tả gì đâu anh"
+
+> Tệp đính kèm: https://drive.google.com/drive/folders/1TT8nhT4weVUF4dyIJdmEiLVMVlg-GUg3?usp=sharing
+
+---
+
+###### <i><u>🎁🎁🎁Phần thưởng: <u><i>
+Người **đầu tiên** tìm ra được cờ ở **mỗi thử thách** sẽ nhận được một phần quà từ KCSC gồm:
+
+
+![image](https://user-images.githubusercontent.com/85006768/128601125-abcadc1e-7ef6-47cb-90dc-1294d0dbe528.png)
+
+`+` Móc khóa + Sticker **(dành riêng cho các bạn sinh viên KMA)**  
+
+---
+
+###### <i><u>📭 📭 📭 Cách thức xác nhận cờ và nhận quà: <u><i>
++ Gửi cờ và một bản ghi chú ngắn về cách làm vào hòm tin nhắn trang [Facebook KCSC](https://www.facebook.com/kmase.club).
++ Sau khi kết thúc sự kiện, tụi mình sẽ gửi phần quà cho các bạn.
+
+---
+
+> Còn chờ gì nữa, mà không tham gia ngay event cùng tụi mình. 
+#CHÚC MỪNG SINH NHẬT KCSC!!!
